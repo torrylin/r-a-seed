@@ -1,0 +1,17 @@
+{
+  "name": "r-a-seed",
+  "description": "一个使用angular & require & ui-router的种子项目",
+  "version": "0.0.1",
+  "homepage": "https://github.com/torrylin/r-a-seed",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.3.x",
+    "angular-loader": "1.3.x",
+    "angular-mocks": "~1.3.x",
+    "ui-router": "0.2.13",
+    "html5-boilerplate": "~4.3.0",
+    "requirejs-text": "2.0.x",
+    "requirejs": "2.1.x"
+  }
+}
